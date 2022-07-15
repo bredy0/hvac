@@ -6,7 +6,7 @@
 #
 certifi==2019.3.9         # via requests
 chardet==3.0.4            # via requests
-codecov==2.0.15
+codecov==2.0.16
 coverage==4.5.3
 filelock==3.0.12          # via tox
 funcsigs==1.0.2           # via mock
